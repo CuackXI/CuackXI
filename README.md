@@ -1,5 +1,5 @@
 andrea
-python
+python (django)
 html
 css
 sql
